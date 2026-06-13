@@ -1,0 +1,6 @@
+{
+  "name": "Cooking To-Do List",
+  "description": "An elite cooking to-do list and personalized recipe planner geared for minimal budget waste and dietary restrictions, powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
